@@ -17,9 +17,19 @@ h1, h2 {
     font-family: "DM Serif Display", serif;
     color:#184f63; /*dark-blue*/
 }
+
+/* New CUSTOME class to change corners back to sharp */
 .sharp-corners,
 .sharp-corners * {
     border-radius: 0;
+}
+.btn-blue {
+    background-color: #1f7798; /*mid-blue*/
+    border-color: #1f7798; /*mid-blue*/
+}
+.btn-blue:hover {
+    background-color: #1d6d8a;
+    border-color: #1d6d8a;
 }
 
 /* About section*/
