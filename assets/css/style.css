@@ -36,6 +36,12 @@ h1, h2 {
 #about {
     background-color: white;
 }
+section img {
+    padding-left: 15%;
+}
+section p {
+    padding-right: 15%;
+}
 
 /* Portfolio*/
 #portfolio {
